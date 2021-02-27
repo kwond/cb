@@ -8,10 +8,7 @@ thresholds:
     
   REN:
     low_monitor_price: 0.97
-    
-  NU:
-    low_monitor_price: 0.58
-    
+
   BAT:
     low_monitor_price: 0.38
     
