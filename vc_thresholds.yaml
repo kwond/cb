@@ -1,19 +1,7 @@
 thresholds:
 
   GRT:
-    low_monitor_price: 1.60
+    low_monitor_price: 1.40
     
-  ETH:
-    low_monitor_price: 1400.00
-    
-  REN:
-    low_monitor_price: 0.94
-
-  NU:
-    low_monitor_price: 0.62
-
-  BAT:
-    low_monitor_price: 0.38
-    
-  LINK:
-    low_monitor_price: 23.25
+  ANKR:
+    low_monitor_price: 0.17
