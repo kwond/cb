@@ -4,4 +4,4 @@ thresholds:
     low_monitor_price: 1.40
     
   ANKR:
-    low_monitor_price: 0.17
+    low_monitor_price: 0.20
